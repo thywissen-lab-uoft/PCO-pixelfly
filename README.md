@@ -7,8 +7,11 @@ These cameras are no longer manufactured by PCO and are extremely outdated.  Thi
 
 Requirements :
 Windows 10 OS
+
 Pixelfly QE Ethernet camera
+
 PCO 540 Board
+
 Magma PCI to PCIE adapter (optional as the 540 board is PCI).
 
 https://www.mathworks.com/matlabcentral/fileexchange/52848-matlab-support-for-mingw-w64-c-c-compiler
