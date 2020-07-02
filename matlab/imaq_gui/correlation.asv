@@ -1,0 +1,15 @@
+% A correlation function
+% Dylan April 2011
+
+function y = correlation(g,h)
+
+
+for i
+    
+    
+end
+
+
+
+
+

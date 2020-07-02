@@ -1,0 +1,9 @@
+function pixelsum(img)
+
+M = img(1);
+
+imagesc(M);
+
+
+
+end
